@@ -1,0 +1,114 @@
+
+I promise you it has no malware or will harm your computer. Here I list all the functionalitis programmed until now. I will add much more in future and I am always open for ideas and suggestions.
+PS: Some functions are not written here, lets see who is the first to find them. Some functions are also private only, sorry.
+
+All the saved Websites (70+):
+accuweather: https://accuweather.com
+agario: https://agar.io
+aliexpress: https://aliexpress.com
+alipay: https://alipay.com
+amazon: https://www.amazon.com
+ampproject: https://ampproject.org
+ao3: https://archiveofourown.org
+apple: https://www.apple.com
+baidu: https://baidu.com
+bing: https://bing.com
+bitly: https://bitly.com
+blogspot: https://blogspot.com
+chan4: https://www.4chan.org
+csdn: https://csdn.net
+deejay: https://www.deejay.it
+deviantart: https://www.deviantart.com
+ebay: https://ebay.com
+facebook: https://www.facebook.com
+fandom: https://community.fandom.com
+github: https://github.com
+google: https://www.google.com
+grabify: https://grabify.link
+haosou: https://360.cn
+happywheels: https://happywheels8.com
+imdb: https://imdb.com
+infinity: https://www.xfinity.com
+instagram: https://www.instagram.com
+jingdong: https://jd.com
+linkedin: https://linkedin.com
+mail: mailto
+maps: https://maps.google.com
+microsoft: https://microsoft.com
+minecraft: https://minecraft.net
+naver: https://Naver.com
+netflix: https://www.netflix.com
+news: https://news.google.com
+odnoklassniki: https://ok.ru
+origin: https://www.origin.com
+pinterest: https://www.pinterest.com
+pornhub: https://pornhub.com
+pottermore: https://www.pottermore.com
+quora: https://quora.com
+raetia: https://www.iteraetia.it
+reddit: https://reddit.com
+samsung: https://www.samsung.com
+shenma: https://sm.cn
+sinacorp: https://sina.com.cn
+slitherio: http://slither.io
+sogou: https://sogou.com
+sohu: https://sohu.com
+spotify: https://www.spotify.com
+stackoverflow: https://stackoverflow.com
+steam: https://store.steampowered.com
+stol: https://www.stol.it
+tabacco: https://www.gustotabacco.it
+taobao: https://taobao.com
+tencent: https://qq.com
+tmall: https://tmall.com
+translation: https://translate.google.com
+twitch: https://twitch.tv
+twitter: https://www.twitter.com
+vk: https://vk.com
+wattpad: https://www.wattpad.com
+weather: https://darksky.net
+website: https://benben377.wixsite.com/home
+webtoon: https://www.webtoons.com
+weibo: https://weibo.com
+whatsapp: https://whatsapp.com
+wikihow: https://m.wikihow.com
+wikipedia: https://wikipedia.org
+windows: https://live.com
+yahoo: https://yahoo.com
+yandex: https://yandex.ru
+youtube: https://www.youtube.com
+zombie: https://the-zombie-hunter.blogspot.com
+
+All the standard apps(Windows only):
+calculator
+cmd
+filesearch
+logout
+music
+notepad
+paint
+restart
+shutdown
+
+Some other interest function:
+Help, help, Helper, helper:  Gives you an help message
+Ping, ping, IP, ip, Ip, iP:  You can check the connection of the IP (IP required)
+Stats, stats, statistics, Statistics:  Check for your internet and IP statistics
+Driver, driver, Driverlist, driverlist:  Lists all connected and available Drivers
+Hotspot, hotspot, Wifi, wifi:  Gives a short info on how to share internen with your PC
+List, list, App, app, Apps, apps, Website, website:  Gives you a list of all the used Websites and Apps
+Arp, arp:  You can find out if anyone has done arp poisoning in your LAN using this command.
+Route, route:  This command will show you the routing table, gateway, interface and metric.
+Net user, net User, Net User, net user, Netuser, netuser:  This command reset Windows User Password without Knowing Old Password. Usage: net user yourusername *
+Tasklist, tasklist:  This command opens up an entire task manager and shows all the running programs.
+Log, log:  Opens the Log.txt file or creates one. Everytime you search something with the assistant you will find it there. 
+If you delete it, the assistant will automatically create a new one next time you search something. 
+I'm still working on a solution to disable it. But for now it is perfect for taking notes.
+The assistant can also do some simple math operations: x + x;  x - x;  x / x;  x * x
+
+In the future I plan to make the Assistant faster, add other Aps and websites and add some voice commands to it. 
+There will also be bug fixes if someone finds any. The update for the app will be next month, if everything goes well.
+
+I just wanted to thank you all for the big support!. 
+Special Thanks to Nina Demetz, Valentina Schöpf, The Chocolate Devourer, 1L1C1M and Jolly Hopper! 
+I will never thank you enough!
