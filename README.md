@@ -3,5 +3,5 @@ Sociality is a simple assistant like Google assistant, but written in Python and
 
 You can download the .EXE file here:                                                                                                       
   Mediafire: http://www.mediafire.com/file/a9cf7xq4ayt7tjn/Sociality.exe/file                                                             
-  Website: https://benben377.wixsite.com/home/projects
+  Website: https://www.internetking.ga/
   
